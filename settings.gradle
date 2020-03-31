@@ -1,0 +1,2 @@
+rootProject.name='SMP1'
+include ':app'
